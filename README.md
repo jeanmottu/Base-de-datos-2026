@@ -1,4 +1,4 @@
-Ejercicio 1
+Ejercicio 1 Creación y poblado de tablas.
 
 CREATE DATABASE Base_de_datos;
 GO
@@ -19,7 +19,7 @@ VALUES ('Juan', 'Carlos', 23455667);
 
 Select * from Persona;
 
-Ejercicio 2 25-03-2026
+Ejercicio 2 25-03-2026 Idem del ejercicio pasado.
 
 TABLA DE VETERINARIA
 create database Veterinaria
@@ -77,4 +77,4 @@ select nombre,
 datediff (DAY, nacimiento , getdate()) as dias
 from mascotas
 
-Ejercicio 3 8 de mayo
+Ejercicio 3 8 de mayo Ejercicio de consultas y de uso de conectores lógicos.
